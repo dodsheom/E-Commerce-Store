@@ -4,7 +4,7 @@ export default function Footer() {
       style={{
         padding: "25px",
         textAlign: "center",
-        background: "#02275f",
+        background: "#02142e",
         color: "#fff",
       }}
     >

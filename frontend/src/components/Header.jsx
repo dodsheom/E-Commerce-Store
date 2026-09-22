@@ -5,7 +5,7 @@ export default function Header({ cartCount }) {
   return (
     <header
       style={{
-        background: "#02275f",
+        background: "#02142e",
         padding: "15px 25px",
         display: "flex",
         justifyContent: "space-between",
@@ -16,7 +16,7 @@ export default function Header({ cartCount }) {
       {/* الشعار */}
       <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
         <img
-          src={logo}
+          src={logo.png}
           alt="شعار القاضي"
           style={{ width: "45px", height: "45px", borderRadius: "6px" }}
         />
