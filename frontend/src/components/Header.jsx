@@ -5,7 +5,7 @@ export default function Header({ cartCount }) {
   return (
     <header
       style={{
-        background: "#0d47a1",
+        background: "#02275f",
         padding: "15px 25px",
         display: "flex",
         justifyContent: "space-between",
